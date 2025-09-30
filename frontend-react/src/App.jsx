@@ -1,12 +1,12 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
-import Register from "./pages/Register";
-import Login from "./pages/Login";
-import ResetPassword from "./pages/ResetPassword";
-import Profile from "./pages/Profile";
-import ForgotPasswordWithToken from "./pages/ForgotPassword"
-import ForgotPasswordRequest from "./pages/ForgotPasswordRequest";
-import ResendVerification from "./pages/ResendVerification";
-import VerifyEmail from "./pages/VerifyEmail";
+import Register from "./pages/Register.jsx";
+import Login from "./pages/Login.jsx";
+import ResetPassword from "./pages/ResetPassword.jsx";
+import Profile from "./pages/Profile.jsx";
+import ForgotPasswordWithToken from "./pages/ForgotPassword.jsx"
+import ForgotPasswordRequest from "./pages/ForgotPasswordRequest.jsx";
+import ResendVerification from "./pages/ResendVerification.jsx";
+import VerifyEmail from "./pages/VerifyEmail.jsx";
 
 function App() {
   return (
