@@ -9,7 +9,6 @@ dist/
 backend/build/
 backend/dist/
 frontend-react/build/
-frontend-react/dist/
 
 # Logs
 logs/
